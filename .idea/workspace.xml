@@ -1,0 +1,719 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Springmvc_Mybatis:war" />
+      <artifact name="Springmvc_Mybatis:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="782a764f-277c-4c9e-8318-0a10cf16e182" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/Springmvc_Mybatis.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/csv-plugin.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/test/controller/CartPayController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/Picture/weimei1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/Picture/weimei2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/Picture/weimei3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/Picture/weimei4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/Picture/weimei5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/loginError.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/test4/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/test4/trangles.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resource/css/dengLu.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resource/css/dengLu1.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resource/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resource/css/zhuCe.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resource/imges/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resource/imges/10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resource/imges/11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resource/imges/12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resource/imges/13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resource/imges/14.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resource/imges/15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resource/imges/16.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resource/imges/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resource/imges/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resource/imges/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resource/imges/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resource/imges/6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resource/imges/7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resource/imges/8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resource/imges/9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resource/imges/bacr.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resource/imges/bacr1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resource/js/jquery-form.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resource/js/jquery_2.1.4_baidu_min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/test/controller/AdminController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/test/controller/AdminController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/test/controller/CartController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/test/controller/CartController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/test/controller/ProductsController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/test/controller/ProductsController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/test/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/test/controller/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/springmvc-servlet.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/springmvc-servlet.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/adminlist.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/adminlist.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/adminlogin.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/adminlogin.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/bookdetails.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/bookdetails.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/booklist.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/booklist.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/cart.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/cart.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/pay.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/pay.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/register.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/register.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/login.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/login.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Springmvc_Mybatis/WEB-INF/classes/com/test/controller/AdminController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/Springmvc_Mybatis/WEB-INF/classes/com/test/controller/AdminController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Springmvc_Mybatis/WEB-INF/classes/com/test/controller/CartController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/Springmvc_Mybatis/WEB-INF/classes/com/test/controller/CartController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Springmvc_Mybatis/WEB-INF/classes/com/test/controller/ProductsController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/Springmvc_Mybatis/WEB-INF/classes/com/test/controller/ProductsController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Springmvc_Mybatis/WEB-INF/classes/com/test/controller/UserController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/Springmvc_Mybatis/WEB-INF/classes/com/test/controller/UserController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Springmvc_Mybatis/WEB-INF/classes/springmvc-servlet.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/Springmvc_Mybatis/WEB-INF/classes/springmvc-servlet.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Springmvc_Mybatis/WEB-INF/jsp/adminlist.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/Springmvc_Mybatis/WEB-INF/jsp/adminlist.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Springmvc_Mybatis/WEB-INF/jsp/adminlogin.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Springmvc_Mybatis/WEB-INF/jsp/bookdetails.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/Springmvc_Mybatis/WEB-INF/jsp/bookdetails.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Springmvc_Mybatis/WEB-INF/jsp/booklist.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/Springmvc_Mybatis/WEB-INF/jsp/booklist.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Springmvc_Mybatis/WEB-INF/jsp/cart.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/Springmvc_Mybatis/WEB-INF/jsp/cart.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Springmvc_Mybatis/WEB-INF/jsp/pay.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/Springmvc_Mybatis/WEB-INF/jsp/pay.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Springmvc_Mybatis/WEB-INF/jsp/register.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Springmvc_Mybatis/login.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/Springmvc_Mybatis/login.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/test/controller/AdminController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/test/controller/AdminController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/test/controller/CartController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/test/controller/CartController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/test/controller/ProductsController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/test/controller/ProductsController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/test/controller/UserController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/test/controller/UserController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/springmvc-servlet.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/springmvc-servlet.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="Jsp File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1fNxfrReA1NI8AzLlWu4LxO9dq3" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="Lombok plugin" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\书城代码和数据库\Springmvc_Mybatis\src\main\webapp" />
+      <recent name="E:\书城代码和数据库\Springmvc_Mybatis\src\main\webapp\WEB-INF\jsp" />
+      <recent name="E:\书城代码和数据库\Springmvc_Mybatis\src\main\webapp\WEB-INF" />
+      <recent name="E:\书城代码和数据库\Springmvc_Mybatis\src\main\webapp\resource\css" />
+      <recent name="F:\java例子\mybatis\Springmvc_Mybatis\src\main\webapp\Picture" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.test.controller" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\java例子\Springmvc_Mybatis\src\main\webapp\WEB-INF\test4" />
+      <recent name="E:\书城代码和数据库\Springmvc_Mybatis\src\main\webapp\resource\css" />
+      <recent name="E:\书城代码和数据库\Springmvc_Mybatis\src\main\webapp\resource\imges" />
+      <recent name="E:\书城代码和数据库\Springmvc_Mybatis\src\main\webapp\WEB-INF\jsp" />
+      <recent name="E:\书城代码和数据库\Springmvc_Mybatis\src\main\webapp\resource" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.login.jsp (1)">
+    <configuration name="mybatis-generator" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="mybatis-generator:generate" />
+                <option value="-e" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="Tomcat 8.5.53" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.53" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8085/" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="Springmvc_Mybatis:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_Springmvc_Mybatis" />
+        <option name="HTTP_PORT" value="8085" />
+        <option name="JNDI_PORT" value="1092" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="51287" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="Springmvc_Mybatis:war exploded" />
+          <artifact name="Springmvc_Mybatis:war" />
+        </option>
+      </method>
+    </configuration>
+    <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8083/" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="Springmvc_Mybatis:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="_Springmvc_Mybatis" />
+        <option name="HTTP_PORT" value="8083" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="51287" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="Springmvc_Mybatis:war exploded" />
+          <artifact name="Springmvc_Mybatis:war" />
+        </option>
+      </method>
+    </configuration>
+    <configuration name="index.jsp" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" temporary="true" APPLICATION_SERVER_NAME="Tomcat 8.5.53" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/WEB-INF/test4/index.jsp" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="Springmvc_Mybatis:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="_Springmvc_Mybatis" />
+        <option name="HTTP_PORT" value="8084" />
+        <option name="JNDI_PORT" value="1098" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="51287" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="Springmvc_Mybatis:war exploded" />
+          <artifact name="Springmvc_Mybatis:war" />
+        </option>
+      </method>
+    </configuration>
+    <configuration name="login.jsp (1)" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" temporary="true" APPLICATION_SERVER_NAME="Tomcat 8.5.53" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8082/login.jsp" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="Springmvc_Mybatis:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="" />
+          </settings>
+        </artifact>
+        <artifact name="Springmvc_Mybatis:war">
+          <settings>
+            <option name="CONTEXT_PATH" value="/Springmvc_Mybatis_war" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="_Springmvc_Mybatis" />
+        <option name="HTTP_PORT" value="8082" />
+        <option name="JNDI_PORT" value="1097" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="51287" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="Springmvc_Mybatis:war exploded" />
+          <artifact name="Springmvc_Mybatis:war" />
+        </option>
+      </method>
+    </configuration>
+    <configuration name="login.jsp" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" temporary="true" APPLICATION_SERVER_NAME="Tomcat 8.5.53" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8083/login.jsp" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="Springmvc_Mybatis:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="" />
+          </settings>
+        </artifact>
+        <artifact name="Springmvc_Mybatis:war">
+          <settings>
+            <option name="CONTEXT_PATH" value="/Springmvc_Mybatis_war" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="_Springmvc_Mybatis" />
+        <option name="HTTP_PORT" value="8083" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="51287" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="Springmvc_Mybatis:war exploded" />
+          <artifact name="Springmvc_Mybatis:war" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Maven.mybatis-generator" />
+      <item itemvalue="Tomcat Server.Tomcat 8.5.53" />
+      <item itemvalue="Tomcat Server.index.jsp" />
+      <item itemvalue="Tomcat Server.login.jsp" />
+      <item itemvalue="Tomcat Server.login.jsp (1)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Tomcat Server.login.jsp (1)" />
+        <item itemvalue="Tomcat Server.login.jsp" />
+        <item itemvalue="Tomcat Server.index.jsp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <option name="contentProportion" value="0.13592896" />
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="Finished" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="782a764f-277c-4c9e-8318-0a10cf16e182" name="Default Changelist" comment="" />
+      <created>1596072457895</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596072457895</updated>
+      <workItem from="1596072461267" duration="4392000" />
+      <workItem from="1596157549217" duration="8806000" />
+      <workItem from="1596175707602" duration="12985000" />
+      <workItem from="1596416637398" duration="13575000" />
+      <workItem from="1596502332870" duration="9802000" />
+      <workItem from="1596588838000" duration="17152000" />
+      <workItem from="1596675058226" duration="8286000" />
+      <workItem from="1599380518035" duration="404000" />
+      <workItem from="1599563003030" duration="577000" />
+      <workItem from="1601208068314" duration="717000" />
+      <workItem from="1601209571010" duration="3324000" />
+      <workItem from="1601479980789" duration="59000" />
+      <workItem from="1603016036878" duration="72000" />
+      <workItem from="1605443437043" duration="666000" />
+      <workItem from="1605619558799" duration="1343000" />
+      <workItem from="1608351172693" duration="5900000" />
+      <workItem from="1608382762137" duration="28000" />
+      <workItem from="1608538933364" duration="1474000" />
+      <workItem from="1608540474929" duration="550000" />
+      <workItem from="1608542462454" duration="421000" />
+      <workItem from="1608542932869" duration="740000" />
+      <workItem from="1608543716743" duration="528000" />
+      <workItem from="1608544291219" duration="1781000" />
+      <workItem from="1608546121705" duration="1772000" />
+      <workItem from="1608548002543" duration="1771000" />
+      <workItem from="1608549829654" duration="1799000" />
+      <workItem from="1608551678938" duration="1774000" />
+      <workItem from="1608553511658" duration="1788000" />
+      <workItem from="1608555346195" duration="774000" />
+      <workItem from="1608556201900" duration="418000" />
+      <workItem from="1608557087756" duration="4905000" />
+      <workItem from="1617427962456" duration="2736000" />
+      <workItem from="1617440145980" duration="2988000" />
+      <workItem from="1617791726435" duration="17000" />
+      <workItem from="1617808091716" duration="475000" />
+      <workItem from="1649736048013" duration="796000" />
+      <workItem from="1665046616410" duration="429000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1665046870714">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824/-1920.5.1920.1040@0.0.1536.824" timestamp="1665046870714" />
+    <state width="1264" height="256" key="GridCell.Tab.0.bottom" timestamp="1665047048531">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1264" height="256" key="GridCell.Tab.0.bottom/0.0.1536.824/-1920.5.1920.1040@0.0.1536.824" timestamp="1665047048531" />
+    <state width="1264" height="256" key="GridCell.Tab.0.center" timestamp="1665047048531">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1264" height="256" key="GridCell.Tab.0.center/0.0.1536.824/-1920.5.1920.1040@0.0.1536.824" timestamp="1665047048531" />
+    <state width="1264" height="256" key="GridCell.Tab.0.left" timestamp="1665047048531">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1264" height="256" key="GridCell.Tab.0.left/0.0.1536.824/-1920.5.1920.1040@0.0.1536.824" timestamp="1665047048531" />
+    <state width="1264" height="256" key="GridCell.Tab.0.right" timestamp="1665047048531">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1264" height="256" key="GridCell.Tab.0.right/0.0.1536.824/-1920.5.1920.1040@0.0.1536.824" timestamp="1665047048531" />
+    <state width="1264" height="256" key="GridCell.Tab.1.bottom" timestamp="1665047048532">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1264" height="256" key="GridCell.Tab.1.bottom/0.0.1536.824/-1920.5.1920.1040@0.0.1536.824" timestamp="1665047048532" />
+    <state width="1264" height="256" key="GridCell.Tab.1.center" timestamp="1665047048532">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1264" height="256" key="GridCell.Tab.1.center/0.0.1536.824/-1920.5.1920.1040@0.0.1536.824" timestamp="1665047048532" />
+    <state width="1264" height="256" key="GridCell.Tab.1.left" timestamp="1665047048532">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1264" height="256" key="GridCell.Tab.1.left/0.0.1536.824/-1920.5.1920.1040@0.0.1536.824" timestamp="1665047048532" />
+    <state width="1264" height="256" key="GridCell.Tab.1.right" timestamp="1665047048532">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1264" height="256" key="GridCell.Tab.1.right/0.0.1536.824/-1920.5.1920.1040@0.0.1536.824" timestamp="1665047048532" />
+    <state width="1264" height="256" key="GridCell.Tab.2.bottom" timestamp="1665047048533">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1264" height="256" key="GridCell.Tab.2.bottom/0.0.1536.824/-1920.5.1920.1040@0.0.1536.824" timestamp="1665047048533" />
+    <state width="1264" height="256" key="GridCell.Tab.2.center" timestamp="1665047048532">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1264" height="256" key="GridCell.Tab.2.center/0.0.1536.824/-1920.5.1920.1040@0.0.1536.824" timestamp="1665047048532" />
+    <state width="1264" height="256" key="GridCell.Tab.2.left" timestamp="1665047048532">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1264" height="256" key="GridCell.Tab.2.left/0.0.1536.824/-1920.5.1920.1040@0.0.1536.824" timestamp="1665047048532" />
+    <state width="1264" height="256" key="GridCell.Tab.2.right" timestamp="1665047048532">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1264" height="256" key="GridCell.Tab.2.right/0.0.1536.824/-1920.5.1920.1040@0.0.1536.824" timestamp="1665047048532" />
+  </component>
+</project>
